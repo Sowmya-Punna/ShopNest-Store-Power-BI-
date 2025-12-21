@@ -1,5 +1,5 @@
-# ShopNest-Store-Power-BI-
-## Descriptiom; Shop Nest Store Power BI dashboard visualizes Nexus Goods Store data (2016–2018) to drive decisions. Includes sales trends, customer behavior, 
+## ShopNest-Store-Power-BI-
+# Description: Shop Nest Store Power BI dashboard visualizes Nexus Goods Store data (2016–2018) to drive decisions. Includes sales trends, customer behavior, 
 delivery delays, payment preferences, and review scores. Enables insights on top categories, operational efficiency, and customer satisfaction.
 - The goal is to enable data-driven decision-making by analyzing sales trends, customer behavior, operational efficiency, and product performance.
 Visualizations Included
